@@ -1,0 +1,64 @@
+
+/* carousal css */
+.Carousal-img1{
+  width: 100%;
+  height: 80vh;
+}
+/* Navbar Css */
+.nav-text-size{
+  font-size: 20px;
+  font-weight: 600;
+}
+/* Footer Css */
+.Footer-bgclr{
+  background-color:rgb(3, 3, 34);
+  padding: 30px;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.footer-li{
+  list-style-type: none;
+}
+.footer-li-clr{
+  color: white;
+  font-size: 20px;
+}
+.Footer-icons{
+  border: none;
+  font-size: 20px;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 50%;
+}
+.Footer-icons .bi:hover{
+  background-color: blueviolet;
+  color: black;
+  border-radius: 50%;
+}
+
+.bi{
+  color: blue;
+  padding: 7px;
+}
+
+/* Home Css */
+
+.Home-main-bgimg{
+  background-image: url("  https://img.freepik.com/premium-vector/artificial-intelligence-new-technology-science-futuristic-background_118331-295.jpg?size=626&ext=jpg&ga=GA1.2.2137567552.1669704756&semt=ais" 
+  );
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 450px;
+}
+.home-main-ptag{
+  font-size: 35px;
+  text-align: center;
+  margin-top: 166px;
+}
+/* Home Discover About our Company Css */
+.Dis-img{
+ 
+  width: 80%;
+  border-radius: 20px;
+}

@@ -1,0 +1,13 @@
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th{
+  color: red;
+}
+/* UseContext Css */
+.usecontxt{
+  font-size: 50px;
+  margin-top: 30px;
+  color: red;
+}
